@@ -1,12 +1,21 @@
 #DatosPersonales {
+  width: 400px;
   float: left;
 }
 
 #FormacionAcademica {
-
+  width: 500px;
   float: left;
 }
 
 #ExperienciaLaboral {
-  float: right;
+  float: left;
+}
+
+ul#caja1 > li {
+  color: blue;
+}
+
+ul#caja2 > li {
+  color: blue;
 }

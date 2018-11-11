@@ -1,16 +1,8 @@
-#DatosPersonales {
-  width: 400px;
-  float: left;
-}
-
-#FormacionAcademica {
+section {
   width: 500px;
   float: left;
 }
 
-#ExperienciaLaboral {
-  float: left;
-}
 
 ul#caja1 > li {
   color: blue;

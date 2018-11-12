@@ -1,6 +1,18 @@
-section {
-  width: 500px;
+/*section {
+  margin-right: 100px;
   float: left;
+}*/
+
+section {
+height: 120px;
+width: 400px;
+background: yellow;
+margin: 20px 30px;
+padding: 20px;
+border: 10px solid #000;
+display: inline-block;
+float: left;
+
 }
 
 
@@ -10,4 +22,8 @@ ul#caja1 > li {
 
 ul#caja2 > li {
   color: blue;
+}
+
+strong {
+  color: black;
 }

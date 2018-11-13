@@ -10,7 +10,7 @@ float: left;
 
 }*/
 #DatosPersonales {
-  height: 120px;
+  height: 400px;
   width: 350px;
   background: blue;
   margin: 20px 10px;
@@ -21,7 +21,7 @@ float: left;
 }
 
 #FormacionAcademica {
-  height: 120px;
+  height: 400px;
   width: 350px;
   background: yellow;
   margin: 20px 10px;
@@ -32,7 +32,7 @@ float: left;
 }
 
 #ExperienciaLaboral {
-  height: 120px;
+  height: 400px;
   width: 350px;
   background: grey;
   margin: 20px 10px;
@@ -53,4 +53,22 @@ ul#caja2 > li {
 
 strong {
   color: black;
+}
+
+article img {
+  width: 250px;
+  height: auto;
+
+}
+
+img.batman {
+  transform: rotate(180deg);
+}
+
+img.batman_accion {
+  transform: skew(.312rad);
+}
+
+img.logo {
+  transform: skew(.312rad);
 }

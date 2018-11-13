@@ -1,18 +1,45 @@
 /*section {
-  margin-right: 100px;
-  float: left;
-}*/
-
-section {
 height: 120px;
-width: 400px;
+width: 350px;
 background: yellow;
-margin: 20px 30px;
+margin: 20px 10px;
 padding: 20px;
-border: 10px solid #000;
+border: 5px solid #000;
 display: inline-block;
 float: left;
 
+}*/
+#DatosPersonales {
+  height: 120px;
+  width: 350px;
+  background: blue;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+#FormacionAcademica {
+  height: 120px;
+  width: 350px;
+  background: yellow;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+#ExperienciaLaboral {
+  height: 120px;
+  width: 350px;
+  background: grey;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
 }
 
 

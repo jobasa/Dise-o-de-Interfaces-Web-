@@ -1,0 +1,103 @@
+﻿body {
+  color: #888;
+  font: normal 16px/32px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/*Ejercicio 1 */
+.cabecera a{
+  float: right;
+}
+
+.pie a{
+  float: right;
+}
+
+/*Ejercicio 2 */
+.cabecera a{
+  color: #801515;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+.pie a{
+  color: #801515;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+/*Ejercicio 3 */
+div.cabecera a:hover{
+  background-color: #336699
+}
+
+nav.pie a:hover{
+  background-color: #336699
+}
+
+/*Ejercicio 4 */
+ h1  a{
+  text-decoration: none;
+  color: #550000;
+  text-transform: uppercase;
+}
+
+/*Ejercicio 5 */
+  h1.home {
+  float: left;
+  border-top: 4px
+  border-style: solid;
+  border-color: #550000;
+  margin-bottom: 30px;
+}
+
+/*Ejercicio 6 */
+.descripcion {
+  clear: both;
+}
+
+/*Ejercicio 7 */
+.descripcion h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #801515;
+  margin-top: 70px;
+}
+
+/*Ejercicio 8 */
+h2, h3, h5 {
+  text-align: center;
+  margin: 30px;
+  color: #550000;
+}
+
+/*Ejercicio 9 */
+.contenido {
+  float: left;
+  width: 33%;
+  margin-bottom: 80px;
+}
+
+/*Ejercicio 10 */
+p {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: justify;
+}
+
+/*Ejercicio 11 */
+.contenido a {
+  float: right;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+/*Ejercicio 12 */
+.pie {
+  clear: both;
+}
+
+/*Ejercicio 13 */
+section a {
+  color: #550000;
+}

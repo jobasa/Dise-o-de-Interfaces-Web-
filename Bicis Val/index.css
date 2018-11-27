@@ -1,0 +1,55 @@
+nav #banderaValenciano {
+  float: right;
+}
+
+nav #iniciarsesion {
+  float: right;
+}
+
+img.mediana{
+  width: 100px;
+  height: 100px;
+}
+
+
+h1 {
+text-align: center;
+}
+
+h4{
+text-align: center;
+}
+
+nav.menu {
+  text-align:
+
+}
+/*nav{
+            height: auto; /*Junto a overflow: hidden; aplicará a nuestro elemento nav el mismo alto que el más alto de sus elementos hijos */
+  /*          margin: 0 auto; /* Centro el contenedor */
+    /*        overflow: hidden;
+            text-align: center;
+            width: 960px; /* Defino el ancho de mi página */
+  /*       }
+        ul{
+            float: left;
+            list-style-type: none; /* Elimino los estilos de lista */
+  /*           padding: 0;
+        }
+        li{
+            float: left;
+        }
+        li a{
+            padding: 10px;
+        }*/
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #9C9C9C;
+  text-align: center;
+
+}

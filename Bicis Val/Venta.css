@@ -1,0 +1,16 @@
+img{
+margin: .5em;
+}
+
+
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #9C9C9C;
+  text-align: center;
+
+}

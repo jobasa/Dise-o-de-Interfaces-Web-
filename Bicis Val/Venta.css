@@ -1,10 +1,80 @@
-img{
+/*img{
 margin: .5em;
+}*/
+nav {
+  text-align: center;
 }
 
+article > h1 {
+  text-align: center;
+}
 
+img.mediana{
+  width: 100px;
+  height: 100px;
+}
 
-footer {
+#img1 {
+float: left;
+top: 50px;
+left: 50px;
+}
+
+#img2 {
+float: none;
+top: 50px;
+left: 235px;
+}
+
+#img3 {
+float: none;
+top: 235px;
+left: 50px;
+}
+
+#img4 {
+float: none;
+top: 235px;
+left: 235px;
+}
+
+#img5 {
+position: right;
+top: 420px;
+left: 50px;
+}
+
+#img6 {
+float: left;
+top: 50px;
+left: 50px;
+}
+
+#img7 {
+float: none;
+top: 50px;
+left: 235px;
+}
+
+#img8 {
+float: none;
+top: 235px;
+left: 50px;
+}
+
+#img9 {
+float: none;
+top: 235px;
+left: 235px;
+}
+
+#img10 {
+position: right;
+top: 420px;
+left: 50px;
+}
+
+/*footer {
   position: absolute;
   right: 0;
   bottom: 0;
@@ -13,4 +83,5 @@ footer {
   background-color: #9C9C9C;
   text-align: center;
 
-}
+
+}*/

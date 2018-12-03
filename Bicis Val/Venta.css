@@ -1,4 +1,4 @@
-
+/*header*/
 .header {
   overflow: hidden;
   background-color: #f1f1f1;
@@ -51,7 +51,18 @@
     float: none;
   }
 }
+/*fin del header */
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+/*tabla*/
 
+/*fin de la tabla */
 
 
 footer {
